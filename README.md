@@ -69,3 +69,7 @@ You can refer to the `Energy_Consumption.ipynb` notebook for more details on the
 ## Screenshots
 
 (Here you can add images of your app's user interface to make the `README` more visually appealing)
+
+## 👤 Developer
+### 👨‍💻 Abdallah Tarek
+- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/abdalla-tarek-21a025263/)
